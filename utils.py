@@ -1,4 +1,4 @@
-from models import Pessoas, db_session
+from models import Pessoas
 
 
 # Insere Dados na tabela pessoas
